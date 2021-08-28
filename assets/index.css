@@ -36,3 +36,9 @@ main {
 .movie {
   width: 100%;
 }
+
+p {
+  margin: 10px;
+  padding: 10px;
+  line-height: 2;
+}
