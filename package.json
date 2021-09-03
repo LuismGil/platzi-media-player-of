@@ -8,9 +8,13 @@
     "platzi"
   ],
   "scripts": {
-    "start": "live-server"
+    "start": "parcel index.html"
   },
   "devDependencies": {
-    "live-server": "^1.2.1"
-  }
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.4.2"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
 }
